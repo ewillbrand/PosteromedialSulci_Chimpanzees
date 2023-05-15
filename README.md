@@ -1,6 +1,6 @@
 ## Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees
 
-Associated data for the *Communications Biology* manuscript Willbrand, Maboudian et al. (2023) *Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees*. 
+Associated data for the *Communications Biology* manuscript: Willbrand, Maboudian et al. (2023) *Sulcal morphology of posteromedial cortex substantially differs between humans and chimpanzees*. 
 
 For questions and/or additional data requests please email Ethan Willbrand (ewillbrand@berkeley.edu), Samira Maboudian (smaboudian@berkeley.edu), or Kevin Weiner (kweiner@berkeley.edu)
   
